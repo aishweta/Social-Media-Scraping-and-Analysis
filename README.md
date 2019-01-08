@@ -1,2 +1,2 @@
 # Social-Media-Analysis
-Sentiment analysis of Twitter, Instagram, Facebook, Google news
+Sentiment analysis of Google News, Blogs, youtube comments
